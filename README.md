@@ -1,4 +1,4 @@
-# Login microservice
+# Login microservice (Hubert - Salim)
 
 This microservice returns a JWT token when the user is autheticated.
 
